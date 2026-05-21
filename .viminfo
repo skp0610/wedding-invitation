@@ -15,9 +15,9 @@ $
 
 # Command Line History (newest to oldest):
 :q!
-|2,0,1779348365,,"q!"
+|2,0,1779349236,,"q!"
 :x!
-|2,0,1779348043,,"x!"
+|2,0,1779348821,,"x!"
 
 # Search String History (newest to oldest):
 ? @$
@@ -32,9 +32,9 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	              유의바랍니다. 낙성대 방향으로 이용해주세요.
-|3,1,1,1,1,0,1779348039,"              유의바랍니다. 낙성대 방향으로 이용해주세요."
+|3,0,1,1,1,0,1779348039,"              유의바랍니다. 낙성대 방향으로 이용해주세요."
 "2	LINE	0
 	            <br />
 |3,0,2,1,1,0,1779347981,"            <br />"
@@ -59,237 +59,242 @@ $
 "9	LINE	0
 	            검은색 피라미드 유리 건물입니다.
 |3,0,9,1,1,0,1779347881,"            검은색 피라미드 유리 건물입니다."
+""-	CHAR	0
+	,
+|3,1,36,0,1,0,1779349225,","
 
 # File marks:
-'0  8  17  ~/package.json
-|4,48,8,17,1779348365,"~/package.json"
-'1  60  9  ~/src/component/information/attendance.tsx
-|4,49,60,9,1779348209,"~/src/component/information/attendance.tsx"
-'2  19  8  ~/src/component/information/index.tsx
-|4,50,19,8,1779348178,"~/src/component/information/index.tsx"
-'3  22  7  ~/src/component/location/index.tsx
-|4,51,22,7,1779348144,"~/src/component/location/index.tsx"
-'4  212  2  ~/src/component/location/map.tsx
-|4,52,212,2,1779348114,"~/src/component/location/map.tsx"
-'5  76  0  ~/src/component/location/index.tsx
-|4,53,76,0,1779348043,"~/src/component/location/index.tsx"
-'6  76  0  ~/src/component/location/index.tsx
-|4,54,76,0,1779348043,"~/src/component/location/index.tsx"
-'7  87  9  ~/src/component/location/index.scss
-|4,55,87,9,1779347789,"~/src/component/location/index.scss"
-'8  8  0  ~/src/component/location
-|4,56,8,0,1779347768,"~/src/component/location"
-'9  122  28  ~/src/const.ts
-|4,57,122,28,1779347676,"~/src/const.ts"
+'0  8  64  ~/package.json
+|4,48,8,64,1779349236,"~/package.json"
+'1  8  59  ~/package.json
+|4,49,8,59,1779349229,"~/package.json"
+'2  8  59  ~/package.json
+|4,50,8,59,1779348821,"~/package.json"
+'3  8  59  ~/package.json
+|4,51,8,59,1779348821,"~/package.json"
+'4  8  58  ~/package.json
+|4,52,8,58,1779348813,"~/package.json"
+'5  8  58  ~/package.json
+|4,53,8,58,1779348813,"~/package.json"
+'6  8  58  ~/package.json
+|4,54,8,58,1779348813,"~/package.json"
+'7  8  58  ~/package.json
+|4,55,8,58,1779348813,"~/package.json"
+'8  8  59  ~/package.json
+|4,56,8,59,1779348540,"~/package.json"
+'9  8  59  ~/package.json
+|4,57,8,59,1779348540,"~/package.json"
 
 # Jumplist (newest first):
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779348821,"~/package.json"
+-'  8  58  ~/package.json
+|4,39,8,58,1779348813,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779348540,"~/package.json"
 -'  8  17  ~/package.json
 |4,39,8,17,1779348365,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1779348247,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1779348247,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1779348247,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1779348247,"~/package.json"
+-'  1  0  ~/package.json
+|4,39,1,0,1779348247,"~/package.json"
 -'  1  0  ~/package.json
 |4,39,1,0,1779348247,"~/package.json"
 -'  60  9  ~/src/component/information/attendance.tsx
 |4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
 -'  60  9  ~/src/component/information/attendance.tsx
 |4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
+-'  60  9  ~/src/component/information/attendance.tsx
+|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
 -'  1  0  ~/src/component/information/attendance.tsx
 |4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
 -'  1  0  ~/src/component/information/attendance.tsx
 |4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  19  8  ~/src/component/information/index.tsx
-|4,39,19,8,1779348178,"~/src/component/information/index.tsx"
--'  19  8  ~/src/component/information/index.tsx
-|4,39,19,8,1779348178,"~/src/component/information/index.tsx"
--'  19  8  ~/src/component/information/index.tsx
-|4,39,19,8,1779348178,"~/src/component/information/index.tsx"
--'  19  8  ~/src/component/information/index.tsx
-|4,39,19,8,1779348178,"~/src/component/information/index.tsx"
--'  1  0  ~/src/component/information/index.tsx
-|4,39,1,0,1779348156,"~/src/component/information/index.tsx"
--'  1  0  ~/src/component/information/index.tsx
-|4,39,1,0,1779348156,"~/src/component/information/index.tsx"
--'  1  0  ~/src/component/information/index.tsx
-|4,39,1,0,1779348156,"~/src/component/information/index.tsx"
--'  1  0  ~/src/component/information/index.tsx
-|4,39,1,0,1779348156,"~/src/component/information/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  22  7  ~/src/component/location/index.tsx
-|4,39,22,7,1779348144,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348137,"~/src/component/location/index.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  212  2  ~/src/component/location/map.tsx
-|4,39,212,2,1779348114,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  1  0  ~/src/component/location/map.tsx
-|4,39,1,0,1779348100,"~/src/component/location/map.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  76  0  ~/src/component/location/index.tsx
-|4,39,76,0,1779348043,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
--'  1  0  ~/src/component/location/index.tsx
-|4,39,1,0,1779347794,"~/src/component/location/index.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+-'  1  0  ~/src/component/information/attendance.tsx
+|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
 
 # History of marks within files (newest to oldest):
 
 > ~/package.json
-	*	1779348362	0
-	"	8	17
-	^	8	18
+	*	1779349234	0
+	"	8	64
+	^	8	65
+	.	8	64
+	+	8	64
 
 > ~/src/component/information/attendance.tsx
 	*	1779348208	0
