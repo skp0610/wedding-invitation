@@ -35,7 +35,7 @@ export const Location = () => {
           <div className="content">
             * 지하철 이용 시
             <br />
-            지하철 4호선 <b>명동역 3번출구</b> 나와서
+            지하철 4호선 <b>명동역 3번 출구</b> 나와서
             <br />
             → 퍼시픽호텔 우측길로 60m
           </div>

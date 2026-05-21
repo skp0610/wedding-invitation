@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
-:q!
-|2,0,1779349236,,"q!"
 :x!
-|2,0,1779348821,,"x!"
+|2,0,1779350696,,"x!"
+:q!
+|2,0,1779350593,,"q!"
 
 # Search String History (newest to oldest):
 ? @$
@@ -64,253 +64,244 @@ $
 |3,1,36,0,1,0,1779349225,","
 
 # File marks:
-'0  8  64  ~/package.json
-|4,48,8,64,1779349236,"~/package.json"
-'1  8  59  ~/package.json
-|4,49,8,59,1779349229,"~/package.json"
-'2  8  59  ~/package.json
-|4,50,8,59,1779348821,"~/package.json"
-'3  8  59  ~/package.json
-|4,51,8,59,1779348821,"~/package.json"
-'4  8  58  ~/package.json
-|4,52,8,58,1779348813,"~/package.json"
-'5  8  58  ~/package.json
-|4,53,8,58,1779348813,"~/package.json"
-'6  8  58  ~/package.json
-|4,54,8,58,1779348813,"~/package.json"
-'7  8  58  ~/package.json
-|4,55,8,58,1779348813,"~/package.json"
+'0  1  36  ~/.env
+|4,48,1,36,1779350696,"~/.env"
+'1  22  9  ~/src/component/location/index.tsx
+|4,49,22,9,1779350593,"~/src/component/location/index.tsx"
+'2  22  7  ~/src/component/location/index.tsx
+|4,50,22,7,1779349843,"~/src/component/location/index.tsx"
+'3  117  9  ~/src/component/information/index.tsx
+|4,51,117,9,1779349794,"~/src/component/information/index.tsx"
+'4  15  9  ~/src/index.tsx
+|4,52,15,9,1779349757,"~/src/index.tsx"
+'5  8  64  ~/package.json
+|4,53,8,64,1779349236,"~/package.json"
+'6  8  59  ~/package.json
+|4,54,8,59,1779349229,"~/package.json"
+'7  8  59  ~/package.json
+|4,55,8,59,1779348821,"~/package.json"
 '8  8  59  ~/package.json
-|4,56,8,59,1779348540,"~/package.json"
-'9  8  59  ~/package.json
-|4,57,8,59,1779348540,"~/package.json"
+|4,56,8,59,1779348821,"~/package.json"
+'9  8  58  ~/package.json
+|4,57,8,58,1779348813,"~/package.json"
 
 # Jumplist (newest first):
+-'  1  36  ~/.env
+|4,39,1,36,1779350696,"~/.env"
+-'  2  21  ~/.env
+|4,39,2,21,1779350607,"~/.env"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779350593,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779350593,"~/src/component/location/index.tsx"
+-'  22  7  ~/src/component/location/index.tsx
+|4,39,22,7,1779349843,"~/src/component/location/index.tsx"
+-'  22  7  ~/src/component/location/index.tsx
+|4,39,22,7,1779349843,"~/src/component/location/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  117  9  ~/src/component/information/index.tsx
+|4,39,117,9,1779349794,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  19  8  ~/src/component/information/index.tsx
+|4,39,19,8,1779349782,"~/src/component/information/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  15  9  ~/src/index.tsx
+|4,39,15,9,1779349757,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  1  0  ~/src/index.tsx
+|4,39,1,0,1779349753,"~/src/index.tsx"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
+-'  8  64  ~/package.json
+|4,39,8,64,1779349236,"~/package.json"
 -'  8  64  ~/package.json
 |4,39,8,64,1779349236,"~/package.json"
 -'  8  59  ~/package.json
 |4,39,8,59,1779349229,"~/package.json"
 -'  8  59  ~/package.json
-|4,39,8,59,1779348821,"~/package.json"
--'  8  58  ~/package.json
-|4,39,8,58,1779348813,"~/package.json"
+|4,39,8,59,1779349229,"~/package.json"
 -'  8  59  ~/package.json
-|4,39,8,59,1779348540,"~/package.json"
--'  8  17  ~/package.json
-|4,39,8,17,1779348365,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1779348247,"~/package.json"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  60  9  ~/src/component/information/attendance.tsx
-|4,39,60,9,1779348209,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
--'  1  0  ~/src/component/information/attendance.tsx
-|4,39,1,0,1779348186,"~/src/component/information/attendance.tsx"
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
+-'  8  59  ~/package.json
+|4,39,8,59,1779349229,"~/package.json"
 
 # History of marks within files (newest to oldest):
 
-> ~/package.json
-	*	1779349234	0
-	"	8	64
-	^	8	65
-	.	8	64
-	+	8	64
-
-> ~/src/component/information/attendance.tsx
-	*	1779348208	0
-	"	60	9
-	^	60	10
-
-> ~/src/component/information/index.tsx
-	*	1779348177	0
-	"	19	8
-	^	19	9
+> ~/.env
+	*	1779350695	0
+	"	1	36
+	^	1	37
+	.	1	36
+	+	1	25
+	+	1	36
 
 > ~/src/component/location/index.tsx
-	*	1779348141	0
-	"	22	7
-	^	22	8
-	.	70	0
+	*	1779350592	0
+	"	22	9
+	^	22	10
+	.	22	9
 	+	38	43
 	+	40	48
 	+	41	0
@@ -323,6 +314,32 @@ $
 	+	65	0
 	+	69	102
 	+	70	0
+	+	38	47
+	+	22	9
+
+> ~/src/component/information/index.tsx
+	*	1779349792	0
+	"	117	9
+	^	117	10
+
+> ~/src/index.tsx
+	*	1779349756	0
+	"	15	9
+	^	15	10
+	.	15	9
+	+	15	9
+
+> ~/package.json
+	*	1779349234	0
+	"	8	64
+	^	8	65
+	.	8	64
+	+	8	64
+
+> ~/src/component/information/attendance.tsx
+	*	1779348208	0
+	"	60	9
+	^	60	10
 
 > ~/src/component/location/map.tsx
 	*	1779348113	0
@@ -365,13 +382,6 @@ $
 	+	116	43
 	+	121	25
 	+	127	25
-
-> ~/.env
-	*	1779347228	0
-	"	2	21
-	^	2	22
-	.	1	32
-	+	1	32
 
 > ~/.bashrc
 	*	1779345628	0
