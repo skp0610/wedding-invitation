@@ -113,3 +113,35 @@ git commit -m "Fix: navermap api 추가"
 git push origin main
 vi .env
 exit
+ls
+vi src/images/index.ts 
+explorer.exe .
+vi src/const.ts 
+vi src/index.tsx 
+vi src/App.scss 
+vi src/App.tsx 
+vi src/component/bgEffect/
+vi src/component/bgEffect/index.scss 
+vi src/component/bgEffect/index.tsx 
+vi src/App.tsx 
+vi src/App.scss 
+vi src/component/bgEffect/index.tsx 
+vi src/component/bgEffect/index.scss 
+vi src/App.scss 
+vi src/App.tsx 
+git add .
+git commit -m "Design: 색상변경 연하늘"
+git push origin main
+vi src/App.tsx 
+git add .
+git commit -m "Design: background 벚꽃제거"
+git push origin main
+vi src/App.scss 
+vi src/component/calendar/index.tsx 
+vi src/component/calendar/index.scss 
+git add .
+git commit -m "Design: 달력 하트 색상 변경"
+git push origin main
+vi .env
+vi index.html 
+exit
