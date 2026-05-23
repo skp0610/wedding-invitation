@@ -17,10 +17,10 @@
 $
 
 # Command Line History (newest to oldest):
+:q!
+|2,0,1779517493,,"q!"
 :x!
 |2,0,1779517145,,"x!"
-:q!
-|2,0,1779516319,,"q!"
 
 # Search String History (newest to oldest):
 ?/them
@@ -53,71 +53,135 @@ $
 	,
 |3,0,0,0,1,0,1779513163,","
 ""1	LINE	0
-	     <BGEffect />
-|3,1,1,1,1,0,1779514013,"     <BGEffect />"
+	        }
+|3,1,1,1,1,0,1779517306,"        }"
 "2	LINE	0
-	      {/* 배경 애니메이션 효과 (예: 꽃잎 내리기) */}
-|3,0,2,1,1,0,1779514011,"      {/* 배경 애니메이션 효과 (예: 꽃잎 내리기) */}"
+	     <BGEffect />
+|3,0,2,1,1,0,1779514013,"     <BGEffect />"
 "3	LINE	0
-	  --sky-blue-color2: #ecf3f5;
-|3,0,3,1,1,0,1779513718,"  --sky-blue-color2: #ecf3f5;"
+	      {/* 배경 애니메이션 효과 (예: 꽃잎 내리기) */}
+|3,0,3,1,1,0,1779514011,"      {/* 배경 애니메이션 효과 (예: 꽃잎 내리기) */}"
 "4	LINE	0
-	  --sky-blue-color: #f0f7f9;
-|3,0,4,1,1,0,1779513717,"  --sky-blue-color: #f0f7f9;"
+	  --sky-blue-color2: #ecf3f5;
+|3,0,4,1,1,0,1779513718,"  --sky-blue-color2: #ecf3f5;"
 "5	LINE	0
-	@use "./component/bgEffect";
-|3,0,5,1,1,0,1779513455,"@use \"./component/bgEffect\";"
+	  --sky-blue-color: #f0f7f9;
+|3,0,5,1,1,0,1779513717,"  --sky-blue-color: #f0f7f9;"
 "6	LINE	0
-	              유의바랍니다. 낙성대 방향으로 이용해주세요.
-|3,0,6,1,1,0,1779348039,"              유의바랍니다. 낙성대 방향으로 이용해주세요."
+	@use "./component/bgEffect";
+|3,0,6,1,1,0,1779513455,"@use \"./component/bgEffect\";"
 "7	LINE	0
-	            <br />
-|3,0,7,1,1,0,1779347981,"            <br />"
+	              유의바랍니다. 낙성대 방향으로 이용해주세요.
+|3,0,7,1,1,0,1779348039,"              유의바랍니다. 낙성대 방향으로 이용해주세요."
 "8	LINE	0
-	            (주차장 이용 시 웨딩홀과 바로 연결)
-|3,0,8,1,1,0,1779347980,"            (주차장 이용 시 웨딩홀과 바로 연결)"
-"9	LINE	0
 	            <br />
-|3,0,9,1,1,0,1779347939,"            <br />"
+|3,0,8,1,1,0,1779347981,"            <br />"
+"9	LINE	0
+	            (주차장 이용 시 웨딩홀과 바로 연결)
+|3,0,9,1,1,0,1779347980,"            (주차장 이용 시 웨딩홀과 바로 연결)"
 "-	CHAR	0
 	*
 |3,0,36,0,1,0,1779514001,"*"
 
 # File marks:
-'0  14  50  ~/src/component/location/map.tsx
-|4,48,14,50,1779517145,"~/src/component/location/map.tsx"
-'1  71  19  ~/src/component/calendar/index.scss
-|4,49,71,19,1779517064,"~/src/component/calendar/index.scss"
-'2  58  50  ~/src/component/calendar/index.scss
-|4,50,58,50,1779516997,"~/src/component/calendar/index.scss"
-'3  58  50  ~/src/component/calendar/index.scss
-|4,51,58,50,1779516997,"~/src/component/calendar/index.scss"
-'4  21  7  ~/src/component/location/map.tsx
-|4,52,21,7,1779516423,"~/src/component/location/map.tsx"
-'5  21  7  ~/src/component/location/map.tsx
-|4,53,21,7,1779516423,"~/src/component/location/map.tsx"
-'6  18  10  ~/src/component/location/index.tsx
-|4,54,18,10,1779516319,"~/src/component/location/index.tsx"
-'7  126  0  ~/src/component/location/index.scss
-|4,55,126,0,1779516296,"~/src/component/location/index.scss"
-'8  18  9  ~/src/index.tsx
-|4,56,18,9,1779516124,"~/src/index.tsx"
-'9  28  3  ~/index.html
-|4,57,28,3,1779516113,"~/index.html"
+'0  57  10  ~/src/component/calendar/index.scss
+|4,48,57,10,1779517493,"~/src/component/calendar/index.scss"
+'1  61  4  ~/src/component/calendar/index.scss
+|4,49,61,4,1779517309,"~/src/component/calendar/index.scss"
+'2  61  4  ~/src/component/calendar/index.scss
+|4,50,61,4,1779517309,"~/src/component/calendar/index.scss"
+'3  13  3  ~/src/component/location/map.tsx
+|4,51,13,3,1779517289,"~/src/component/location/map.tsx"
+'4  14  50  ~/src/component/location/map.tsx
+|4,52,14,50,1779517145,"~/src/component/location/map.tsx"
+'5  14  50  ~/src/component/location/map.tsx
+|4,53,14,50,1779517145,"~/src/component/location/map.tsx"
+'6  70  19  ~/src/component/calendar/index.scss
+|4,54,70,19,1779517064,"~/src/component/calendar/index.scss"
+'7  71  19  ~/src/component/calendar/index.scss
+|4,55,71,19,1779517064,"~/src/component/calendar/index.scss"
+'8  70  19  ~/src/component/calendar/index.scss
+|4,56,70,19,1779517064,"~/src/component/calendar/index.scss"
+'9  71  19  ~/src/component/calendar/index.scss
+|4,57,71,19,1779517064,"~/src/component/calendar/index.scss"
 
 # Jumplist (newest first):
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  61  4  ~/src/component/calendar/index.scss
+|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
+-'  61  4  ~/src/component/calendar/index.scss
+|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
+-'  70  19  ~/src/component/calendar/index.scss
+|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
+-'  70  19  ~/src/component/calendar/index.scss
+|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517289,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517289,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517289,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517289,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517272,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517272,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517272,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517272,"~/src/component/location/map.tsx"
 -'  14  50  ~/src/component/location/map.tsx
 |4,39,14,50,1779517145,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517145,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517145,"~/src/component/location/map.tsx"
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517145,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
 -'  21  7  ~/src/component/location/map.tsx
 |4,39,21,7,1779517070,"~/src/component/location/map.tsx"
 -'  71  19  ~/src/component/calendar/index.scss
 |4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
 -'  71  19  ~/src/component/calendar/index.scss
 |4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
+-'  71  19  ~/src/component/calendar/index.scss
+|4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
+-'  71  19  ~/src/component/calendar/index.scss
+|4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
+-'  71  19  ~/src/component/calendar/index.scss
+|4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
 -'  58  50  ~/src/component/calendar/index.scss
 |4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
 -'  58  50  ~/src/component/calendar/index.scss
 |4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779516997,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779516997,"~/src/component/calendar/index.scss"
 -'  58  50  ~/src/component/calendar/index.scss
 |4,39,58,50,1779516997,"~/src/component/calendar/index.scss"
 -'  58  50  ~/src/component/calendar/index.scss
@@ -130,6 +194,42 @@ $
 |4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
 -'  35  47  ~/src/component/calendar/index.scss
 |4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
 -'  21  7  ~/src/component/location/map.tsx
 |4,39,21,7,1779516423,"~/src/component/location/map.tsx"
 -'  21  7  ~/src/component/location/map.tsx
@@ -148,6 +248,44 @@ $
 |4,39,212,0,1779516326,"~/src/component/location/map.tsx"
 -'  212  0  ~/src/component/location/map.tsx
 |4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
 -'  18  10  ~/src/component/location/index.tsx
 |4,39,18,10,1779516319,"~/src/component/location/index.tsx"
 -'  18  10  ~/src/component/location/index.tsx
@@ -168,163 +306,28 @@ $
 |4,39,18,10,1779516319,"~/src/component/location/index.tsx"
 -'  18  10  ~/src/component/location/index.tsx
 |4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  18  10  ~/src/component/location/index.tsx
-|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  22  9  ~/src/component/location/index.tsx
-|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  126  0  ~/src/component/location/index.scss
-|4,39,126,0,1779516296,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  87  9  ~/src/component/location/index.scss
-|4,39,87,9,1779516289,"~/src/component/location/index.scss"
 
 # History of marks within files (newest to oldest):
 
+> ~/src/component/calendar/index.scss
+	*	1779517455	0
+	"	57	10
+	^	59	11
+	.	60	0
+	+	35	48
+	+	49	51
+	+	58	51
+	+	59	0
+	+	59	11
+	+	60	0
+
 > ~/src/component/location/map.tsx
-	*	1779517141	0
-	"	14	50
+	*	1779517285	0
+	"	13	3
 	^	14	51
 	.	14	50
 	+	212	2
 	+	14	50
-
-> ~/src/component/calendar/index.scss
-	*	1779517063	0
-	"	71	19
-	^	58	51
-	.	58	51
-	+	35	48
-	+	49	51
-	+	58	51
 
 > ~/src/component/location/index.tsx
 	*	1779516313	0
