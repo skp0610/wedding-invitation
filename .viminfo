@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :x!
-|2,0,1779516423,,"x!"
+|2,0,1779517145,,"x!"
 :q!
 |2,0,1779516319,,"q!"
 
@@ -84,36 +84,130 @@ $
 |3,0,36,0,1,0,1779514001,"*"
 
 # File marks:
-'0  21  7  ~/src/component/location/map.tsx
-|4,48,21,7,1779516423,"~/src/component/location/map.tsx"
-'1  18  10  ~/src/component/location/index.tsx
-|4,49,18,10,1779516319,"~/src/component/location/index.tsx"
-'2  126  0  ~/src/component/location/index.scss
-|4,50,126,0,1779516296,"~/src/component/location/index.scss"
-'3  18  9  ~/src/index.tsx
-|4,51,18,9,1779516124,"~/src/index.tsx"
-'4  28  3  ~/index.html
-|4,52,28,3,1779516113,"~/index.html"
-'5  4  0  ~/src/const.ts
-|4,53,4,0,1779516017,"~/src/const.ts"
-'6  18  9  ~/src/index.tsx
-|4,54,18,9,1779515979,"~/src/index.tsx"
-'7  1  0  ~/src/vite-env.d.ts
-|4,55,1,0,1779515969,"~/src/vite-env.d.ts"
-'8  21  4  ~/tsconfig.json
-|4,56,21,4,1779515937,"~/tsconfig.json"
-'9  21  2  ~/vite.config.ts
-|4,57,21,2,1779515925,"~/vite.config.ts"
+'0  14  50  ~/src/component/location/map.tsx
+|4,48,14,50,1779517145,"~/src/component/location/map.tsx"
+'1  71  19  ~/src/component/calendar/index.scss
+|4,49,71,19,1779517064,"~/src/component/calendar/index.scss"
+'2  58  50  ~/src/component/calendar/index.scss
+|4,50,58,50,1779516997,"~/src/component/calendar/index.scss"
+'3  58  50  ~/src/component/calendar/index.scss
+|4,51,58,50,1779516997,"~/src/component/calendar/index.scss"
+'4  21  7  ~/src/component/location/map.tsx
+|4,52,21,7,1779516423,"~/src/component/location/map.tsx"
+'5  21  7  ~/src/component/location/map.tsx
+|4,53,21,7,1779516423,"~/src/component/location/map.tsx"
+'6  18  10  ~/src/component/location/index.tsx
+|4,54,18,10,1779516319,"~/src/component/location/index.tsx"
+'7  126  0  ~/src/component/location/index.scss
+|4,55,126,0,1779516296,"~/src/component/location/index.scss"
+'8  18  9  ~/src/index.tsx
+|4,56,18,9,1779516124,"~/src/index.tsx"
+'9  28  3  ~/index.html
+|4,57,28,3,1779516113,"~/index.html"
 
 # Jumplist (newest first):
+-'  14  50  ~/src/component/location/map.tsx
+|4,39,14,50,1779517145,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779517070,"~/src/component/location/map.tsx"
+-'  71  19  ~/src/component/calendar/index.scss
+|4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
+-'  71  19  ~/src/component/calendar/index.scss
+|4,39,71,19,1779517064,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779517023,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779516997,"~/src/component/calendar/index.scss"
+-'  58  50  ~/src/component/calendar/index.scss
+|4,39,58,50,1779516997,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
+-'  35  47  ~/src/component/calendar/index.scss
+|4,39,35,47,1779516941,"~/src/component/calendar/index.scss"
 -'  21  7  ~/src/component/location/map.tsx
 |4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  21  7  ~/src/component/location/map.tsx
+|4,39,21,7,1779516423,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
+-'  212  0  ~/src/component/location/map.tsx
+|4,39,212,0,1779516326,"~/src/component/location/map.tsx"
 -'  212  0  ~/src/component/location/map.tsx
 |4,39,212,0,1779516326,"~/src/component/location/map.tsx"
 -'  18  10  ~/src/component/location/index.tsx
 |4,39,18,10,1779516319,"~/src/component/location/index.tsx"
 -'  18  10  ~/src/component/location/index.tsx
 |4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  18  10  ~/src/component/location/index.tsx
+|4,39,18,10,1779516319,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
+-'  22  9  ~/src/component/location/index.tsx
+|4,39,22,9,1779516299,"~/src/component/location/index.tsx"
 -'  22  9  ~/src/component/location/index.tsx
 |4,39,22,9,1779516299,"~/src/component/location/index.tsx"
 -'  22  9  ~/src/component/location/index.tsx
@@ -126,6 +220,62 @@ $
 |4,39,126,0,1779516296,"~/src/component/location/index.scss"
 -'  126  0  ~/src/component/location/index.scss
 |4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
+-'  126  0  ~/src/component/location/index.scss
+|4,39,126,0,1779516296,"~/src/component/location/index.scss"
 -'  87  9  ~/src/component/location/index.scss
 |4,39,87,9,1779516289,"~/src/component/location/index.scss"
 -'  87  9  ~/src/component/location/index.scss
@@ -134,187 +284,47 @@ $
 |4,39,87,9,1779516289,"~/src/component/location/index.scss"
 -'  87  9  ~/src/component/location/index.scss
 |4,39,87,9,1779516289,"~/src/component/location/index.scss"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  18  9  ~/src/index.tsx
-|4,39,18,9,1779516124,"~/src/index.tsx"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  28  3  ~/index.html
-|4,39,28,3,1779516113,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  26  3  ~/index.html
-|4,39,26,3,1779516097,"~/index.html"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  4  0  ~/src/const.ts
-|4,39,4,0,1779516017,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
--'  37  0  ~/src/const.ts
-|4,39,37,0,1779515989,"~/src/const.ts"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
+-'  87  9  ~/src/component/location/index.scss
+|4,39,87,9,1779516289,"~/src/component/location/index.scss"
 
 # History of marks within files (newest to oldest):
 
 > ~/src/component/location/map.tsx
-	*	1779516421	0
-	"	21	7
-	^	212	3
-	.	212	2
+	*	1779517141	0
+	"	14	50
+	^	14	51
+	.	14	50
 	+	212	2
+	+	14	50
+
+> ~/src/component/calendar/index.scss
+	*	1779517063	0
+	"	71	19
+	^	58	51
+	.	58	51
+	+	35	48
+	+	49	51
+	+	58	51
 
 > ~/src/component/location/index.tsx
 	*	1779516313	0
@@ -402,13 +412,6 @@ $
 	+	1	25
 	+	1	36
 	+	4	23
-
-> ~/src/component/calendar/index.scss
-	*	1779514521	0
-	"	35	47
-	^	35	48
-	.	35	48
-	+	35	48
 
 > ~/src/component/calendar/index.tsx
 	*	1779514488	0
