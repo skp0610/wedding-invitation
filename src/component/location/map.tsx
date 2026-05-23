@@ -11,7 +11,7 @@ import {
   NMAP_PLACE_ID,
   WEDDING_HALL_POSITION,
 } from "../../const"
-/*import { NAVER_MAP_CLIENT_ID } from "../../env"*/
+import { NAVER_MAP_CLIENT_ID } from "../../env"
 
 /**
  * 지도를 표시하고 길찾기 앱(네이버, 카카오, 티맵) 연동 기능을 제공하는 컴포넌트입니다.
