@@ -1,7 +1,6 @@
 @use "./component/cover";
 @use "./component/invitation";
 @use "./component/button";
-@use "./component/bgEffect";
 @use "./component/calendar";
 @use "./component/gallery";
 @use "./component/location";
@@ -11,10 +10,14 @@
 @use "./component/shareButton";
 
 :root {
-  --theme-color: #ff8585;
+  --theme-color: #5c8d9e;       /* 메인 포인트 색상 (차분하고 세련된 톤다운 블루) */
+  --theme-bg-color: #f0f7f9;    /* 청량하고 연한 하늘색 배경 (강력 추천!) */
+  --alt-color: #7fa4b0;         /* 서브 포인트 색상 (연한 블루 그레이) */
+  --alt-bg-color: #f4f7f8;      /* 약간의 미색이 도는 차분한 배경색 */
+/*  --theme-color: #ff8585; 
   --theme-bg-color: #ffe7e7;
   --alt-color: #c28080;
-  --alt-bg-color: #f4f0f0;
+  --alt-bg-color: #f4f0f0; */
   --dark-color: #282c34;
   --dark-grey-color: #d2d2d2;
   --light-grey-color: #eaeaea;
