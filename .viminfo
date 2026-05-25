@@ -11,18 +11,22 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/them
+~MSle0~/Guest
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:x!
-|2,0,1779670379,,"x!"
 :q!
-|2,0,1779669901,,"q!"
+|2,0,1779671364,,"q!"
+:x!
+|2,0,1779670998,,"x!"
 
 # Search String History (newest to oldest):
+?/Guest
+|2,1,1779671226,47,"Guest"
+? @$
+|2,1,1779670803,,"@$"
 ?/them
 |2,1,1779514509,47,"them"
 ?/the
@@ -35,8 +39,6 @@ $
 |2,1,1779513449,47,"bgEffect"
 ?/snow
 |2,1,1779513321,47,"snow"
-? @$
-|2,1,1779513163,,"@$"
 ?/back
 |2,1,1779513102,47,"back"
 
@@ -49,12 +51,12 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	,
-|3,0,0,0,1,0,1779513163,","
-""1	LINE	0
+""0	LINE	0
 	        }
-|3,1,1,1,1,0,1779517306,"        }"
+|3,1,0,1,1,0,1779670803,"        }"
+"1	LINE	0
+	        }
+|3,0,1,1,1,0,1779517306,"        }"
 "2	LINE	0
 	     <BGEffect />
 |3,0,2,1,1,0,1779514013,"     <BGEffect />"
@@ -84,304 +86,251 @@ $
 |3,0,36,0,1,0,1779514001,"*"
 
 # File marks:
-'0  61  15  ~/src/component/location/map.tsx
-|4,48,61,15,1779670379,"~/src/component/location/map.tsx"
-'1  61  16  ~/src/component/location/map.tsx
-|4,49,61,16,1779670327,"~/src/component/location/map.tsx"
-'2  61  20  ~/src/component/location/map.tsx
-|4,50,61,20,1779670100,"~/src/component/location/map.tsx"
-'3  61  20  ~/src/component/location/map.tsx
-|4,51,61,20,1779670100,"~/src/component/location/map.tsx"
-'4  61  16  ~/src/component/location/map.tsx
-|4,52,61,16,1779669952,"~/src/component/location/map.tsx"
-'5  61  16  ~/src/component/location/map.tsx
-|4,53,61,16,1779669952,"~/src/component/location/map.tsx"
-'6  61  16  ~/src/component/location/map.tsx
-|4,54,61,16,1779669952,"~/src/component/location/map.tsx"
-'7  61  16  ~/src/component/location/map.tsx
-|4,55,61,16,1779669952,"~/src/component/location/map.tsx"
-'8  36  0  ~/.github/workflows/deploy.yml
-|4,56,36,0,1779669901,"~/.github/workflows/deploy.yml"
-'9  32  46  ~/.github/workflows/deploy.yml
-|4,57,32,46,1779518062,"~/.github/workflows/deploy.yml"
+'0  35  37  ~/.github/workflows/deploy.yml
+|4,48,35,37,1779671364,"~/.github/workflows/deploy.yml"
+'1  10  0  ~/src/env.ts
+|4,49,10,0,1779671271,"~/src/env.ts"
+'2  48  30  ~/src/App.tsx
+|4,50,48,30,1779671255,"~/src/App.tsx"
+'3  14  0  ~/src/env.ts
+|4,51,14,0,1779671136,"~/src/env.ts"
+'4  14  0  ~/src/env.ts
+|4,52,14,0,1779671136,"~/src/env.ts"
+'5  12  6  ~/src/App.tsx
+|4,53,12,6,1779671077,"~/src/App.tsx"
+'6  12  6  ~/src/App.tsx
+|4,54,12,6,1779671077,"~/src/App.tsx"
+'7  6  0  ~/src/const.ts
+|4,55,6,0,1779671039,"~/src/const.ts"
+'8  18  9  ~/src/index.tsx
+|4,56,18,9,1779671026,"~/src/index.tsx"
+'9  19  0  ~/index.html
+|4,57,19,0,1779671020,"~/index.html"
 
 # Jumplist (newest first):
--'  61  15  ~/src/component/location/map.tsx
-|4,39,61,15,1779670379,"~/src/component/location/map.tsx"
--'  61  16  ~/src/component/location/map.tsx
-|4,39,61,16,1779670327,"~/src/component/location/map.tsx"
--'  61  20  ~/src/component/location/map.tsx
-|4,39,61,20,1779670100,"~/src/component/location/map.tsx"
--'  61  16  ~/src/component/location/map.tsx
-|4,39,61,16,1779669952,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
+-'  35  37  ~/.github/workflows/deploy.yml
+|4,39,35,37,1779671364,"~/.github/workflows/deploy.yml"
 -'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  36  0  ~/.github/workflows/deploy.yml
-|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  32  46  ~/.github/workflows/deploy.yml
-|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
--'  1  0  ~/.github/workflows/deploy.yml
-|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+|4,39,36,0,1779671285,"~/.github/workflows/deploy.yml"
+-'  10  0  ~/src/env.ts
+|4,39,10,0,1779671271,"~/src/env.ts"
+-'  10  0  ~/src/env.ts
+|4,39,10,0,1779671271,"~/src/env.ts"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671262,"~/src/env.ts"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671262,"~/src/env.ts"
+-'  48  30  ~/src/App.tsx
+|4,39,48,30,1779671255,"~/src/App.tsx"
+-'  48  30  ~/src/App.tsx
+|4,39,48,30,1779671255,"~/src/App.tsx"
+-'  48  30  ~/src/App.tsx
+|4,39,48,30,1779671255,"~/src/App.tsx"
+-'  48  30  ~/src/App.tsx
+|4,39,48,30,1779671255,"~/src/App.tsx"
+-'  13  0  ~/src/App.tsx
+|4,39,13,0,1779671226,"~/src/App.tsx"
+-'  13  0  ~/src/App.tsx
+|4,39,13,0,1779671226,"~/src/App.tsx"
+-'  13  0  ~/src/App.tsx
+|4,39,13,0,1779671226,"~/src/App.tsx"
+-'  13  0  ~/src/App.tsx
+|4,39,13,0,1779671226,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671204,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671204,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671204,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671204,"~/src/App.tsx"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671136,"~/src/env.ts"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671136,"~/src/env.ts"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671136,"~/src/env.ts"
+-'  14  0  ~/src/env.ts
+|4,39,14,0,1779671136,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
+|4,39,1,0,1779671085,"~/src/env.ts"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  12  6  ~/src/App.tsx
+|4,39,12,6,1779671077,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  23  6  ~/src/App.tsx
+|4,39,23,6,1779671068,"~/src/App.tsx"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  6  0  ~/src/const.ts
+|4,39,6,0,1779671039,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
+-'  120  22  ~/src/const.ts
+|4,39,120,22,1779671034,"~/src/const.ts"
 
 # History of marks within files (newest to oldest):
 
-> ~/src/component/location/map.tsx
-	*	1779670378	0
-	"	61	15
-	^	61	16
-	.	61	15
-	+	212	2
-	+	14	47
-	+	61	15
-
 > ~/.github/workflows/deploy.yml
-	*	1779518146	0
-	"	36	0
+	*	1779671362	0
+	"	35	37
 	^	32	47
 
 > ~/src/env.ts
-	*	1779517954	0
-	"	1	0
+	*	1779671270	0
+	"	10	0
 
-> ~/src/component/calendar/index.scss
-	*	1779517455	0
-	"	57	10
-	^	59	11
-	.	60	0
-	+	35	48
-	+	49	51
-	+	58	51
-	+	59	0
-	+	59	11
-	+	60	0
-
-> ~/src/component/location/index.tsx
-	*	1779516313	0
-	"	18	10
-	^	22	10
-	.	22	9
-	+	38	43
-	+	40	48
-	+	41	0
-	+	36	30
-	+	46	59
-	+	47	0
-	+	48	18
-	+	62	31
-	+	64	35
-	+	65	0
-	+	69	102
-	+	70	0
-	+	38	47
-	+	22	9
-
-> ~/src/component/location/index.scss
-	*	1779516294	0
-	"	126	0
-	^	87	10
-	.	87	9
-	+	87	9
-
-> ~/src/index.tsx
-	*	1779516118	0
-	"	18	9
-	^	15	10
-	.	15	9
-	+	15	9
-
-> ~/index.html
-	*	1779516107	0
-	"	28	3
+> ~/src/App.tsx
+	*	1779671246	0
+	"	48	30
+	.	23	0
+	+	23	0
 
 > ~/src/const.ts
-	*	1779516014	0
-	"	4	0
-	^	122	29
-	.	127	25
+	*	1779671037	0
+	"	6	0
+	^	85	41
+	.	85	41
 	+	17	53
 	+	30	31
 	+	35	41
@@ -404,6 +353,81 @@ $
 	+	116	43
 	+	121	25
 	+	127	25
+	+	90	24
+	+	96	24
+	+	85	41
+
+> ~/src/index.tsx
+	*	1779671023	0
+	"	18	9
+	^	15	10
+	.	15	9
+	+	15	9
+
+> ~/index.html
+	*	1779671017	0
+	"	19	0
+
+> ~/.env
+	*	1779670997	0
+	"	4	20
+	^	4	21
+	.	4	21
+	+	1	25
+	+	1	36
+	+	4	21
+
+> ~/.env.example
+	*	1779670982	0
+	"	4	0
+
+> ~/src/component/location/index.tsx
+	*	1779670838	0
+	"	67	10
+	^	22	10
+	.	22	9
+	+	38	43
+	+	40	48
+	+	41	0
+	+	36	30
+	+	46	59
+	+	47	0
+	+	48	18
+	+	62	31
+	+	64	35
+	+	65	0
+	+	69	102
+	+	70	0
+	+	38	47
+	+	22	9
+
+> ~/src/component/location/map.tsx
+	*	1779670378	0
+	"	61	15
+	^	61	16
+	.	61	15
+	+	212	2
+	+	14	47
+	+	61	15
+
+> ~/src/component/calendar/index.scss
+	*	1779517455	0
+	"	57	10
+	^	59	11
+	.	60	0
+	+	35	48
+	+	49	51
+	+	58	51
+	+	59	0
+	+	59	11
+	+	60	0
+
+> ~/src/component/location/index.scss
+	*	1779516294	0
+	"	126	0
+	^	87	10
+	.	87	9
+	+	87	9
 
 > ~/src/vite-env.d.ts
 	*	1779515967	0
@@ -416,15 +440,6 @@ $
 > ~/vite.config.ts
 	*	1779515924	0
 	"	21	2
-
-> ~/.env
-	*	1779515114	0
-	"	4	21
-	^	4	24
-	.	4	23
-	+	1	25
-	+	1	36
-	+	4	23
 
 > ~/src/component/calendar/index.tsx
 	*	1779514488	0
@@ -443,12 +458,6 @@ $
 	+	17	28
 	+	20	28
 	+	29	33
-
-> ~/src/App.tsx
-	*	1779514013	0
-	"	23	6
-	.	23	0
-	+	23	0
 
 > ~/src/component/bgEffect/index.scss
 	*	1779513769	0
