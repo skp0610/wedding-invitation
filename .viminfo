@@ -17,10 +17,10 @@
 $
 
 # Command Line History (newest to oldest):
-:q!
-|2,0,1779518062,,"q!"
 :x!
-|2,0,1779517662,,"x!"
+|2,0,1779669952,,"x!"
+:q!
+|2,0,1779669901,,"q!"
 
 # Search String History (newest to oldest):
 ?/them
@@ -84,36 +84,76 @@ $
 |3,0,36,0,1,0,1779514001,"*"
 
 # File marks:
-'0  32  46  ~/.github/workflows/deploy.yml
-|4,48,32,46,1779518062,"~/.github/workflows/deploy.yml"
-'1  1  0  ~/src/env.ts
-|4,49,1,0,1779517958,"~/src/env.ts"
-'2  15  0  ~/src/component/location/map.tsx
-|4,50,15,0,1779517908,"~/src/component/location/map.tsx"
-'3  14  46  ~/src/component/location/map.tsx
-|4,51,14,46,1779517662,"~/src/component/location/map.tsx"
-'4  14  46  ~/src/component/location/map.tsx
-|4,52,14,46,1779517662,"~/src/component/location/map.tsx"
-'5  57  10  ~/src/component/calendar/index.scss
-|4,53,57,10,1779517493,"~/src/component/calendar/index.scss"
-'6  61  4  ~/src/component/calendar/index.scss
-|4,54,61,4,1779517309,"~/src/component/calendar/index.scss"
-'7  61  4  ~/src/component/calendar/index.scss
-|4,55,61,4,1779517309,"~/src/component/calendar/index.scss"
-'8  13  3  ~/src/component/location/map.tsx
-|4,56,13,3,1779517289,"~/src/component/location/map.tsx"
-'9  13  3  ~/src/component/location/map.tsx
-|4,57,13,3,1779517289,"~/src/component/location/map.tsx"
+'0  61  16  ~/src/component/location/map.tsx
+|4,48,61,16,1779669952,"~/src/component/location/map.tsx"
+'1  36  0  ~/.github/workflows/deploy.yml
+|4,49,36,0,1779669901,"~/.github/workflows/deploy.yml"
+'2  32  46  ~/.github/workflows/deploy.yml
+|4,50,32,46,1779518062,"~/.github/workflows/deploy.yml"
+'3  32  46  ~/.github/workflows/deploy.yml
+|4,51,32,46,1779518062,"~/.github/workflows/deploy.yml"
+'4  1  0  ~/src/env.ts
+|4,52,1,0,1779517958,"~/src/env.ts"
+'5  15  0  ~/src/component/location/map.tsx
+|4,53,15,0,1779517908,"~/src/component/location/map.tsx"
+'6  15  0  ~/src/component/location/map.tsx
+|4,54,15,0,1779517908,"~/src/component/location/map.tsx"
+'7  14  46  ~/src/component/location/map.tsx
+|4,55,14,46,1779517662,"~/src/component/location/map.tsx"
+'8  14  46  ~/src/component/location/map.tsx
+|4,56,14,46,1779517662,"~/src/component/location/map.tsx"
+'9  14  46  ~/src/component/location/map.tsx
+|4,57,14,46,1779517662,"~/src/component/location/map.tsx"
 
 # Jumplist (newest first):
+-'  61  16  ~/src/component/location/map.tsx
+|4,39,61,16,1779669952,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
 -'  32  46  ~/.github/workflows/deploy.yml
 |4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
 -'  1  0  ~/.github/workflows/deploy.yml
 |4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
 -'  1  0  ~/src/env.ts
 |4,39,1,0,1779517958,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
 |4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  1  0  ~/src/env.ts
+|4,39,1,0,1779517958,"~/src/env.ts"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
 -'  15  0  ~/src/component/location/map.tsx
 |4,39,15,0,1779517908,"~/src/component/location/map.tsx"
 -'  15  0  ~/src/component/location/map.tsx
@@ -130,6 +170,24 @@ $
 |4,39,14,46,1779517800,"~/src/component/location/map.tsx"
 -'  14  46  ~/src/component/location/map.tsx
 |4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
+-'  14  46  ~/src/component/location/map.tsx
+|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
 -'  14  46  ~/src/component/location/map.tsx
 |4,39,14,46,1779517662,"~/src/component/location/map.tsx"
 -'  14  46  ~/src/component/location/map.tsx
@@ -154,6 +212,24 @@ $
 |4,39,13,3,1779517654,"~/src/component/location/map.tsx"
 -'  13  3  ~/src/component/location/map.tsx
 |4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
+-'  13  3  ~/src/component/location/map.tsx
+|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
 -'  57  10  ~/src/component/calendar/index.scss
 |4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
 -'  57  10  ~/src/component/calendar/index.scss
@@ -186,145 +262,70 @@ $
 |4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
 -'  57  10  ~/src/component/calendar/index.scss
 |4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517310,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  61  4  ~/src/component/calendar/index.scss
-|4,39,61,4,1779517309,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
--'  70  19  ~/src/component/calendar/index.scss
-|4,39,70,19,1779517293,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
+-'  57  10  ~/src/component/calendar/index.scss
+|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
 
 # History of marks within files (newest to oldest):
 
+> ~/src/component/location/map.tsx
+	*	1779669950	0
+	"	61	16
+	^	61	17
+	.	61	16
+	+	212	2
+	+	14	47
+	+	61	16
+
 > ~/.github/workflows/deploy.yml
-	*	1779518009	0
-	"	32	46
+	*	1779518146	0
+	"	36	0
 	^	32	47
 
 > ~/src/env.ts
 	*	1779517954	0
 	"	1	0
-
-> ~/src/component/location/map.tsx
-	*	1779517801	0
-	"	15	0
-	^	14	47
-	.	14	47
-	+	212	2
-	+	14	47
 
 > ~/src/component/calendar/index.scss
 	*	1779517455	0

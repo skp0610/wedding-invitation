@@ -58,7 +58,7 @@ const NaverMap = () => {
           WEDDING_HALL_POSITION[1],
           WEDDING_HALL_POSITION[0],
         ),
-        zoom: 17,
+        zoom: 15,
       })
 
       // 마커 추가
