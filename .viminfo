@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :x!
-|2,0,1779670100,,"x!"
+|2,0,1779670379,,"x!"
 :q!
 |2,0,1779669901,,"q!"
 
@@ -84,28 +84,32 @@ $
 |3,0,36,0,1,0,1779514001,"*"
 
 # File marks:
-'0  61  20  ~/src/component/location/map.tsx
-|4,48,61,20,1779670100,"~/src/component/location/map.tsx"
+'0  61  15  ~/src/component/location/map.tsx
+|4,48,61,15,1779670379,"~/src/component/location/map.tsx"
 '1  61  16  ~/src/component/location/map.tsx
-|4,49,61,16,1779669952,"~/src/component/location/map.tsx"
-'2  36  0  ~/.github/workflows/deploy.yml
-|4,50,36,0,1779669901,"~/.github/workflows/deploy.yml"
-'3  32  46  ~/.github/workflows/deploy.yml
-|4,51,32,46,1779518062,"~/.github/workflows/deploy.yml"
-'4  32  46  ~/.github/workflows/deploy.yml
-|4,52,32,46,1779518062,"~/.github/workflows/deploy.yml"
-'5  1  0  ~/src/env.ts
-|4,53,1,0,1779517958,"~/src/env.ts"
-'6  15  0  ~/src/component/location/map.tsx
-|4,54,15,0,1779517908,"~/src/component/location/map.tsx"
-'7  15  0  ~/src/component/location/map.tsx
-|4,55,15,0,1779517908,"~/src/component/location/map.tsx"
-'8  15  0  ~/src/component/location/map.tsx
-|4,56,15,0,1779517908,"~/src/component/location/map.tsx"
-'9  15  0  ~/src/component/location/map.tsx
-|4,57,15,0,1779517908,"~/src/component/location/map.tsx"
+|4,49,61,16,1779670327,"~/src/component/location/map.tsx"
+'2  61  20  ~/src/component/location/map.tsx
+|4,50,61,20,1779670100,"~/src/component/location/map.tsx"
+'3  61  20  ~/src/component/location/map.tsx
+|4,51,61,20,1779670100,"~/src/component/location/map.tsx"
+'4  61  16  ~/src/component/location/map.tsx
+|4,52,61,16,1779669952,"~/src/component/location/map.tsx"
+'5  61  16  ~/src/component/location/map.tsx
+|4,53,61,16,1779669952,"~/src/component/location/map.tsx"
+'6  61  16  ~/src/component/location/map.tsx
+|4,54,61,16,1779669952,"~/src/component/location/map.tsx"
+'7  61  16  ~/src/component/location/map.tsx
+|4,55,61,16,1779669952,"~/src/component/location/map.tsx"
+'8  36  0  ~/.github/workflows/deploy.yml
+|4,56,36,0,1779669901,"~/.github/workflows/deploy.yml"
+'9  32  46  ~/.github/workflows/deploy.yml
+|4,57,32,46,1779518062,"~/.github/workflows/deploy.yml"
 
 # Jumplist (newest first):
+-'  61  15  ~/src/component/location/map.tsx
+|4,39,61,15,1779670379,"~/src/component/location/map.tsx"
+-'  61  16  ~/src/component/location/map.tsx
+|4,39,61,16,1779670327,"~/src/component/location/map.tsx"
 -'  61  20  ~/src/component/location/map.tsx
 |4,39,61,20,1779670100,"~/src/component/location/map.tsx"
 -'  61  16  ~/src/component/location/map.tsx
@@ -114,6 +118,34 @@ $
 |4,39,15,0,1779669918,"~/src/component/location/map.tsx"
 -'  15  0  ~/src/component/location/map.tsx
 |4,39,15,0,1779669918,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
+-'  15  0  ~/src/component/location/map.tsx
+|4,39,15,0,1779669918,"~/src/component/location/map.tsx"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
+-'  36  0  ~/.github/workflows/deploy.yml
+|4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
 -'  36  0  ~/.github/workflows/deploy.yml
 |4,39,36,0,1779669901,"~/.github/workflows/deploy.yml"
 -'  36  0  ~/.github/workflows/deploy.yml
@@ -130,6 +162,54 @@ $
 |4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
 -'  32  46  ~/.github/workflows/deploy.yml
 |4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518132,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
+-'  32  46  ~/.github/workflows/deploy.yml
+|4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
 -'  32  46  ~/.github/workflows/deploy.yml
 |4,39,32,46,1779518062,"~/.github/workflows/deploy.yml"
 -'  32  46  ~/.github/workflows/deploy.yml
@@ -154,6 +234,54 @@ $
 |4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
 -'  1  0  ~/.github/workflows/deploy.yml
 |4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
+-'  1  0  ~/.github/workflows/deploy.yml
+|4,39,1,0,1779517974,"~/.github/workflows/deploy.yml"
 -'  1  0  ~/src/env.ts
 |4,39,1,0,1779517958,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
@@ -178,145 +306,17 @@ $
 |4,39,1,0,1779517958,"~/src/env.ts"
 -'  1  0  ~/src/env.ts
 |4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  1  0  ~/src/env.ts
-|4,39,1,0,1779517958,"~/src/env.ts"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  15  0  ~/src/component/location/map.tsx
-|4,39,15,0,1779517908,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517800,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  14  46  ~/src/component/location/map.tsx
-|4,39,14,46,1779517662,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  13  3  ~/src/component/location/map.tsx
-|4,39,13,3,1779517654,"~/src/component/location/map.tsx"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
--'  57  10  ~/src/component/calendar/index.scss
-|4,39,57,10,1779517493,"~/src/component/calendar/index.scss"
 
 # History of marks within files (newest to oldest):
 
 > ~/src/component/location/map.tsx
-	*	1779670098	0
-	"	61	20
-	^	61	21
-	.	61	20
+	*	1779670378	0
+	"	61	15
+	^	61	16
+	.	61	15
 	+	212	2
 	+	14	47
-	+	61	20
+	+	61	15
 
 > ~/.github/workflows/deploy.yml
 	*	1779518146	0
